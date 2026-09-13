@@ -1,0 +1,7 @@
+OOP Language:               Java
+GUI Library:                Java Swing
+IDE:                        Visual Studio Code
+xUnit framework:            JUnit
+Programming style guide:    Google Java style guide
+Project hosting site:       Github.com
+Other decisions:
