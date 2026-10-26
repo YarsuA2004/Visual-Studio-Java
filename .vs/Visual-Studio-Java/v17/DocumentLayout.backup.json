@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\App.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\TestCases.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestCases.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 660,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCases.java",
+              "DocumentMoniker": "C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\TestCases.java",
+              "RelativeDocumentMoniker": "TestCases.java",
+              "ToolTip": "C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\TestCases.java",
+              "RelativeToolTip": "TestCases.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T16:13:39.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.java",
+              "DocumentMoniker": "C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\App.java",
+              "RelativeDocumentMoniker": "App.java",
+              "ToolTip": "C:\\Users\\ayars\\OneDrive\\Desktop\\UMKC Downloads\\UMKC Year 4 Fall 2026\\Comp-Sci 449\\Visual-Studio-Java\\App.java",
+              "RelativeToolTip": "App.java",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T16:13:22.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
